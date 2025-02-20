@@ -1,4 +1,4 @@
-This is a Sports Analytics Project I am going to perform using IPL data that i got from Kaggle
+This is a Sports Analytics Project I am going to perform using IPL data that I got from Kaggle
 
 Data Source :https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
 
@@ -11,4 +11,6 @@ Who are the Top Wicket-Taking Bowlers
 Who are the most Economic Bowlers
 Who are the Top 10 batsman with Highest Strike Rates
 Who are the Top 10 Six Hitters
-I will also be Visualizing my findings with help of various charts
+
+
+I will also be Visualizing my findings with help of various charts like Bar Chart, Pie Chart,Scatterplot,Line Chart and Lolipop Chart
